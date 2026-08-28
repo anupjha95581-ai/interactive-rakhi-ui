@@ -4,7 +4,7 @@ An over-engineered, highly interactive web application built to celebrate Raksha
 
 This project combines complex 3D CSS illusions, physics-based animations, and artificial intelligence to create a memorable, personalized digital gifting experience.
 
-![Preview Image](https://via.placeholder.com/800x400?text=Drop+a+screenshot+of+your+app+here!)
+
 
 ## ✨ Key Features
 
